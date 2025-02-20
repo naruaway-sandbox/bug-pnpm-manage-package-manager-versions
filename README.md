@@ -1,5 +1,7 @@
 # Bug repro: pnpm "manage-package-manager-versions" does not work well with "engines" field and workspace
 
+Note: this bug is reported in https://github.com/pnpm/pnpm/issues/9142
+
 When I reproduced this bug, my environment was the following:
 
 - macOS 15.2 (MacBook Air, M2 2022)
